@@ -1,0 +1,11 @@
+canvas{
+    border: 3px indigo solid;
+    border-radius: 70px;
+    margin-top: 200px;
+   
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
